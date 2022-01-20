@@ -1,2 +1,3 @@
-# JavaScript_2022
-Curs JavaScript 2022
+# JavaScript
+
+//Javascript curs by LinkAcademy
